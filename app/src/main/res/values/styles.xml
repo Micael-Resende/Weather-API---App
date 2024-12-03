@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomButton" parent="Widget.MaterialComponents.Button">
+        <item name="background">@drawable/result_background</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">weather_api_app</string>
+    <string name="background_image">background imagem\n</string>
+    <string name="country_flag">flags</string>
+    <string name="temp_min_icon">temperatura_minima\n</string>
+    <string name="temp_max_icon">temperatura_maxima</string>
+    <string name="wind_icon">vento</string>
+    <string name="umidity_icon">umidade</string>
+    <string name="map_icon">localização</string>
+</resources>
