@@ -67,8 +67,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun fetchWeatherData(city: String) {
-        val apiKeyWeather = "d8ffd4f83688c91cffc26c7a574645b0"
-        val apiKeyUnsplash = "zlIvtbEv3FT-2aw_gPwHUHT6BEyzv4CLpj0rHgvLUNI"
+        val apiKeyWeather = "XXX"
+        val apiKeyUnsplash = "XXX"
         val apiCountryURL = "https://flagsapi.com/"
         val apiUrlWeather = "https://api.openweathermap.org/data/2.5/weather?q=$city&appid=$apiKeyWeather&units=metric"
         val apiUrlUnsplash = "https://api.unsplash.com/photos/random?client_id=$apiKeyUnsplash&query=$city"
